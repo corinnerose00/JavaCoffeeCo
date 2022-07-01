@@ -1,0 +1,7 @@
+
+Black Coffee = 7
+Milk = 9
+HotWater = 5
+Espresso = 2
+Sugar = 18
+WhippedCream = 7Foam = 5
